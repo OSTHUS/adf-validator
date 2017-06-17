@@ -1,41 +1,39 @@
-# adf-validator
-validation of ADF files and Allotrope instance data
+# ADF Validator
+The ADF Validator allows validating ADF and TTL files. It is based on SHACL API https://github.com/TopQuadrant/shacl.
 
-The ADF Validator command-line tool allows validation of ADF and TTL files (based on TopQuadrantís SHACL API https://github.com/TopQuadrant/shacl)
-
-User documentation:<br/>
+# User Documentation
 http://www.allotrope-framework-architect.com/index.php/adf-validator/ 
 
-Dependencies:<br/>
-ADF validator depends on various third-party software libraries.
-Please make sure that all required dependencies are located in folder ìlibî next to adf-validator-0.2.2.jar.
+# Dependencies
+The ADF Validator depends on third-party software libraries.
+Please make sure that all required dependencies are located in folder ‚Äúlib‚Äù next to adf-validator.jar.
 
-ï collection-0.6.jar<br/>
-ï commons-cli-1.3.1.jar<br/>
-ï commons-codec-1.10.jar<br/>
-ï commons-csv-1.3.jar<br/>
-ï commons-io-2.5.jar<br/>
-ï commons-lang3-3.5.jar<br/>
-ï commons-rdf-api-0.3.0-incubating.jar<br/>
-ï httpclient-4.5.2.jar<br/>
-ï httpclient-cache-4.5.2.jar<br/>
-ï httpcore-4.4.4.jar<br/>
-ï jackson-annotations-2.7.0.jar<br/>
-ï jackson-core-2.7.4.jar<br/>
-ï jackson-databind-2.7.4.jar<br/>
-ï jcl-over-slf4j-1.7.21.jar<br/>
-ï jena-arq-3.1.1.jar<br/>
-ï jena-base-3.1.1.jar<br/>
-ï jena-core-3.1.1.jar<br/>
-ï jena-iri-3.1.1.jar<br/>
-ï jena-shaded-guava-3.1.1.jar<br/>
-ï jsonld-java-0.8.3.jar<br/>
-ï libthrift-0.9.3.jar<br/>
-ï log4j-1.2.17.jar<br/>
-ï log4j-api-2.7.jar<br/>
-ï log4j-core-2.7.jar<br/>
-ï shacl-0.0.1-SNAPSHOT.jar<br/>
-ï slf4j-api-1.7.5.jar<br/>
-ï slf4j-nop-1.7.5.jar<br/>
-ï xercesImpl-2.11.0.jar<br/>
-ï xml-apis-1.4.01.jar<br/>
+‚Ä¢ collection-0.6.jar<br/>
+‚Ä¢ commons-cli-1.3.1.jar<br/>
+‚Ä¢ commons-codec-1.10.jar<br/>
+‚Ä¢ commons-csv-1.3.jar<br/>
+‚Ä¢ commons-io-2.5.jar<br/>
+‚Ä¢ commons-lang3-3.5.jar<br/>
+‚Ä¢ commons-rdf-api-0.3.0-incubating.jar<br/>
+‚Ä¢ httpclient-4.5.2.jar<br/>
+‚Ä¢ httpclient-cache-4.5.2.jar<br/>
+‚Ä¢ httpcore-4.4.4.jar<br/>
+‚Ä¢ jackson-annotations-2.7.0.jar<br/>
+‚Ä¢ jackson-core-2.7.4.jar<br/>
+‚Ä¢ jackson-databind-2.7.4.jar<br/>
+‚Ä¢ jcl-over-slf4j-1.7.21.jar<br/>
+‚Ä¢ jena-arq-3.1.1.jar<br/>
+‚Ä¢ jena-base-3.1.1.jar<br/>
+‚Ä¢ jena-core-3.1.1.jar<br/>
+‚Ä¢ jena-iri-3.1.1.jar<br/>
+‚Ä¢ jena-shaded-guava-3.1.1.jar<br/>
+‚Ä¢ jsonld-java-0.8.3.jar<br/>
+‚Ä¢ libthrift-0.9.3.jar<br/>
+‚Ä¢ log4j-1.2.17.jar<br/>
+‚Ä¢ log4j-api-2.7.jar<br/>
+‚Ä¢ log4j-core-2.7.jar<br/>
+‚Ä¢ shacl-0.0.1-SNAPSHOT.jar<br/>
+‚Ä¢ slf4j-api-1.7.5.jar<br/>
+‚Ä¢ slf4j-nop-1.7.5.jar<br/>
+‚Ä¢ xercesImpl-2.11.0.jar<br/>
+‚Ä¢ xml-apis-1.4.01.jar<br/>
