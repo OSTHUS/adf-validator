@@ -1,10 +1,10 @@
 # ADF Validator
 The ADF Validator allows validating ADF and TTL files. It is based on SHACL API https://github.com/TopQuadrant/shacl.
 
-# User documentation:<br/>
+# User documentation
 http://www.allotrope-framework-architect.com/index.php/adf-validator/ 
 
-# Dependencies:<br/>
+# Dependencies
 The ADF Validator depends on third-party software libraries.
 Please make sure that all required dependencies are located in folder “lib” next to adf-validator.jar.
 
